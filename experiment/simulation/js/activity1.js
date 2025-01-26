@@ -40,7 +40,7 @@ function start_act1() {
             <span style='display: inline-block;' >
                 $$ T_m = \\frac{T_s + T_f}{2} $$
             </span>
-            = <input type='number' class='form-control' style='display: inline !important; width: 120px;' id='cal01-inp'> <span id='cal01-val-sp'></span> w/m<sup>2</sup>-k
+            = <input type='number' class='form-control' style='display: inline !important; width: 120px;' id='cal01-inp'> <span id='cal01-val-sp'></span> &deg;C<sup>2</sup>-k
 
             <button class='btn btn-info std-btn' onclick='verify_act1_tm();' id='btn_act1_tm' style="width:20%">Verify</button>
         </p>
