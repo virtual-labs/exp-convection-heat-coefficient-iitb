@@ -11,7 +11,7 @@
 
    {
        "question": "Find the rate of heat loss from a cubical furnace kept on a concrete floor. If the outside temperature of the furnace is 80<sup>o</sup>C and surrounding air is at 20<sup>o</sup>C. The sides of the furnace are 1m. At mean temperature, take the following properties. <br> &rho; = 1.0193 <br> K = 0.0283w/m-k <br> C<sub>P</sub> = 1005 J/Kg-k <br> P<sub>r</sub> = 0.698 <br> &mu; = 19.6*10<sup>-6</sup> Ns/m <br> &nu; = 17.95*10<sup>-6</sup> m<sup>2</sup>/s <br> Q = Q<sub>T</sub> + Q<sub>S</sub>",
-       "qid": 1,
+       "qid": 2,
        "option_a": "1896.56 w",
        "option_b": "1726.56 w",
        "option_c": "2196.56 w",
