@@ -1,0 +1,40 @@
+[
+
+   {
+       "question": "The Nusselt's number is given by",
+       "qid": 1,
+       "option_a": "$$ Nu = \\frac{K}{hL} $$",
+       "option_b": "$$ Nu = \\frac{hL}{K} $$",
+       "option_c": "$$ Nu = -\\frac{K}{hL} $$",
+       "option_d": "$$ Nu = -\\frac{hL}{K} $$",
+       "correct_option": "b"
+   },
+   {
+      "question": "Grashof's number is given by",
+      "qid": 2,
+      "option_a": "$$ Gr =  \\frac{g\\beta \\Delta TL^2}{\\nu^3} $$",
+      "option_b": "$$ Gr =  \\frac{\\nu^2}{g\\beta \\Delta TL^3} $$",
+      "option_c": "$$ Gr =  \\frac{g\\beta \\Delta TL^3}{\\nu^2} $$",
+      "option_d": "$$ Gr =  \\frac{\\nu^3}{g\\beta \\Delta TL^2} $$",
+      "correct_option": "c"
+   },
+   {
+       "question": "Prandtl's is given by",
+       "qid": 3,
+       "option_a": "$$ Pr = \\frac{K}{\\mu Cp} $$",
+       "option_b": "$$ Pr = -\\frac{\\mu Cp}{K} $$",
+       "option_c": "$$ Pr = \\frac{\\mu Cp}{K} $$",
+       "option_d": "$$ Pr = -\\frac{K}{\\mu Cp} $$",
+       "correct_option": "c"
+   },
+   {
+      "question": "The Nusselt's correlation is given by",
+      "qid": 4,
+      "option_a": "$$ Nu = Gr.Pr $$",  
+      "option_b": "$$ Nu = (Gr.Pr)^n $$",
+      "option_c": "$$ Nu = C(Gr.Pr)^n $$",
+      "option_d": "$$ Nu = C(Gr.Pr) $$",
+      "correct_option": "c"
+   }
+   
+]
